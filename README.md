@@ -1,1 +1,1 @@
-# Image-flare-removal
+# Image-flare-removal & photo converter.  
